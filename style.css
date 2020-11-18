@@ -1,0 +1,81 @@
+html {
+    scroll-behavior: smooth;
+  }
+body {
+    background-color: rgb(227, 228, 232);
+    font-family:'Open Sans', sans-serif; 
+    text-align: center;
+}
+.button {
+    text-decoration: none;
+    text-align: center;
+    width:100px;
+    margin-left: 20px;
+    display: block;
+    background-color:#3b3b3b91;
+    border-radius: 3px;
+    color: rgb(255, 255, 255);
+    margin-bottom:20px;
+    margin-top: 10px;
+}
+.button:hover {
+    background-color:#000000;
+    color:white; 
+}
+
+.background {
+    background-image: url("Polestar_2_Shanghai_001.jpg");
+    background-size: cover;
+    min-height: 600px;
+    display: flex;
+    box-shadow: rgb(123, 123, 126);
+    margin: 0;
+}
+
+.titel {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -40px;
+    font-size: 30px;
+    font-weight: 50px;
+}
+
+.tekst {
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.tabel {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    width: 60%;
+}
+th, td {
+    padding: 15px;
+  }
+
+h1 {
+    font-family: 'Bebas Neue', cursive;
+    font-size: 50px;
+}
+h2 {
+    font-family: 'Bebas Neue', cursive;
+    font-size: 30px;
+}
+
+.center {
+    border-radius: 8px;
+    height: 300px;
+    width: 400px;
+}
+p {
+    margin-bottom: -14px;
+}
+
+.logotext {
+        margin-left: 500px;
+        margin-right: 500px;
+}
+
